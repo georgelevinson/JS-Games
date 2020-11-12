@@ -1,0 +1,44 @@
+.container{
+    width: 100%;
+    padding: 5px;
+}
+.circle{
+    
+    display: inline-block;
+    border-radius: 50%;
+    height: 10vmin;
+    width: 10vmin;
+    border: 0.3vmin solid black;
+}
+h1{
+    /* font-size: 20vmin; */
+    text-align: center;
+    font-size: 100rem;
+}
+h2{
+    /* font-size: 20vmin; */
+    text-align: center;
+}
+h3{
+    /* font-size: 10vmin; */
+    text-align: center;
+}
+td{
+    height: 10vmin;
+    width: 10vmin;
+    /* border: 1px solid black; */
+}
+table{
+    width: 70vmin;
+    height: 60vmin;
+    margin: 0 auto;
+}
+.neutral{
+    background-color: rgb(212, 212, 212);
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
